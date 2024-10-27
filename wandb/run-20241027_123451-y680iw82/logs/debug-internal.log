@@ -1,0 +1,13 @@
+{"time":"2024-10-27T12:34:51.3644488+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-27T12:34:51.3644488+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\adm.deskit\\Desktop\\github\\CNN\\wandb\\run-20241027_123451-y680iw82\\logs\\debug-core.log"}
+{"time":"2024-10-27T12:34:51.4912368+01:00","level":"INFO","msg":"created new stream","id":"y680iw82"}
+{"time":"2024-10-27T12:34:51.4912368+01:00","level":"INFO","msg":"stream: started","id":"y680iw82"}
+{"time":"2024-10-27T12:34:51.4912368+01:00","level":"INFO","msg":"sender: started","stream_id":"y680iw82"}
+{"time":"2024-10-27T12:34:51.4912368+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"y680iw82"}}
+{"time":"2024-10-27T12:34:51.4912368+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"y680iw82"}}
+{"time":"2024-10-27T12:34:51.8728097+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-27T12:34:57.7901013+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-27T12:35:49.9452207+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-27T12:35:49.9524094+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-27T12:35:56.8819328+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-27T12:35:56.890247+01:00","level":"INFO","msg":"Pausing system monitor"}
